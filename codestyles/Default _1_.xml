@@ -4,4 +4,10 @@
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="180" />
   </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>

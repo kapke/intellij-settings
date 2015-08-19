@@ -36,7 +36,7 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" />
+      <component name="ProjectRootManager" version="2" />
       <component name="RunManager">
         <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />

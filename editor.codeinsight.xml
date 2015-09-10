@@ -8,10 +8,4 @@
     <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-    <option name="collapseAnnotations" value="true" />
-    <option name="COLLAPSE_ACCESSORS" value="true" />
-    <option name="COLLAPSE_ANNOTATIONS" value="true" />
-  </component>
 </application>

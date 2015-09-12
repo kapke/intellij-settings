@@ -99,6 +99,36 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://redmine.skygate.pl">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfeadfe1dfc5dfdadfcfdfc9dff5df9b</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>andrzej.kopec</username>
+    </Redmine>
+    <Redmine shared="false" url="https://redmine.skygate.pl">
+      <option name="APIKey" value="9e79740305adaf3bddad2b013f362dfd3524014d" />
+      <option name="assignedToMe" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfeadfe1dfc5dfdadfcfdfc9dff5df9b</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>andrzej.kopec</username>
+    </Redmine>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>

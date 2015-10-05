@@ -133,4 +133,7 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
 </application>

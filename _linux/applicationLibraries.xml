@@ -52,5 +52,23 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="node-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node.d.ts" />
+          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.8.8.d.ts" />
+          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.11.d.ts" />
+          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.10.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node.d.ts" />
+        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.8.8.d.ts" />
+        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.11.d.ts" />
+        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.10.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
